@@ -1,4 +1,4 @@
-Amigo Secreto 🎁
+<h1>Amigo Secreto 🎁</h1>
 
 Este é um simples projeto em JavaScript para adicionar nomes a uma lista e sortear um amigo secreto.
 
