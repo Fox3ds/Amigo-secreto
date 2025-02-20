@@ -2,19 +2,14 @@
 
 Este é um simples projeto em JavaScript para adicionar nomes a uma lista e sortear um amigo secreto.
 
-🚀 Funcionalidades
-
+<h2>🚀 Funcionalidades</h2>
 Adicionar nomes à lista de amigos.
 
 Exibir os amigos adicionados.
 
 Sortear um amigo aleatoriamente.
 
-📜 Como usar
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/amigo-secreto.git
+<h2>📜 Como usar</h2>
 
 Abra o arquivo index.html em um navegador.
 
@@ -22,15 +17,18 @@ Digite o nome de um amigo no campo de entrada e clique em "Adicionar".
 
 Para sortear um amigo, clique no botão "Sortear amigo".
 
-🛠 Tecnologias utilizadas
+<h2>🛠 Tecnologias utilizadas</h2>
 
+<li>
 HTML
 
 CSS
 
 JavaScript
+</li>
 
-📌 Estrutura do Código
+
+<h2>📌 Estrutura do Código</h2>
 
 adicionarAmigo()
 
