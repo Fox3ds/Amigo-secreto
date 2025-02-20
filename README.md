@@ -3,6 +3,7 @@
 Este é um simples projeto em JavaScript para adicionar nomes a uma lista e sortear um amigo secreto.
 
 <h2>🚀 Funcionalidades</h2>
+
 Adicionar nomes à lista de amigos.
 
 Exibir os amigos adicionados.
