@@ -32,26 +32,23 @@ JavaScript
 
 <h2>📌 Estrutura do Código</h2>
 
-adicionarAmigo()
+<h3>adicionarAmigo()</h3>
 
 Adiciona um nome à lista e atualiza a exibição.
 
-mostra_amigos()
+<h3>mostra_amigos()</h3>
 
 Exibe todos os amigos adicionados na interface.
 
-sortearAmigo()
+<h3>sortearAmigo()</h3>
 
 Sorteia um amigo aleatório da lista e exibe o resultado.
 
-mostra_resultado(amigo_escolhido)
+<h3>mostra_resultado(amigo_escolhido)</h3>
 
 Exibe o nome do amigo sorteado na tela.
 
-🎨 Layout
+<h2>🎨 Layout</h2>
 
 O projeto utiliza um design simples, permitindo fácil interação com os botões.
 
-📄 Licença
-
-Este projeto está sob a licença MIT.
