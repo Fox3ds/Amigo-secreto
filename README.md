@@ -21,9 +21,11 @@ Para sortear um amigo, clique no botão "Sortear amigo".
 
 <li>
 HTML
-
+</li>
+<li>
 CSS
-
+</li>
+<li>
 JavaScript
 </li>
 
